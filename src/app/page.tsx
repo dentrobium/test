@@ -14,7 +14,8 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-            도커 컴포즈로 배포 테스트 sdfsdsfsd 정말 자동배포가 되는것인가..? re{" "}
+            도커 컴포즈로 배포 테스트 sdfsdsfsd 정말 자동배포가 되는것인가..?
+            resdf{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               src/app/page.tsx
             </code>
